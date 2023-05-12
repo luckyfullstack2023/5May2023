@@ -1,0 +1,168 @@
+    @font-face {
+    font-family: "luckyFont";
+    src: url("../fonts/alex.ttf") format("TrueType");
+    }
+    @font-face {
+    font-family: "RockyFont";
+    src: url("../fonts/chunk.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l3Font";
+    src: url("../fonts/3.ttf") format("truetype");
+    }
+    @font-face {
+    font-family: "l4Font";
+    src: url("../fonts/4.ttf") format("truetype");
+    }
+    @font-face {
+    font-family: "l5Font";
+    src: url("../fonts/5.ttf") format("TrueType");
+    }
+    @font-face {
+    font-family: "l6";
+    src: url("../fonts/6.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l7";
+    src: url("../fonts/7.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l8";
+    src: url("../fonts/8.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l9";
+    src: url("../fonts/9.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l10Font";
+    src: url("../fonts/10.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l11Font";
+    src: url("../fonts/11.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l12Font";
+    src: url("../fonts/12.ttf") format("TrueType");
+    }
+    @font-face {
+    font-family: "l13";
+    src: url("../fonts/13.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l14";
+    src: url("../fonts/14.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l15";
+    src: url("../fonts/15.otf") format("opentype");
+    }  
+    @font-face {
+    font-family: "l16Font";
+    src: url("../fonts/16.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l17Font";
+    src: url("../fonts/17.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l18Font";
+    src: url("../fonts/18.ttf") format("TrueType");
+    }
+    @font-face {
+    font-family: "l19Font";
+    src: url("../fonts/19.otf") format("opentype");
+    }
+    @font-face {
+    font-family: "l20Font";
+    src: url("../fonts/20.otf") format("opentype");
+    }
+     
+    
+    article{
+      border-bottom: 1px solid black;
+    }
+
+
+    h1.n1{
+      color:red;
+      font-family:'luckyFont',Arial, Helvetica, sans-serif;
+    }
+    h1.n2{
+      color:green;
+      font-family:'RockyFont',Arial, Helvetica, sans-serif;
+    }
+    h1.n3{
+      color:DeepPink;
+      font-family:'l3Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n4{
+      color:DarkSlateBlue;
+      font-family:'l4Font',Arial, Helvetica, sans-serif;
+    }    
+    h1.n5{
+      color:DodgerBlue;
+      font-family:'l5Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n6{
+      color:ForestGreen;
+      font-family:'l6Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n7{
+      color:Indigo;
+      font-family:'l7Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n8{
+      color:Maroon;
+      font-family:'l8Font',Arial, Helvetica, sans-serif;
+    }   
+    h1.n9{
+      color:MidnightBlue;
+      font-family:'l9Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n10{
+      color:Navy;
+      font-family:'l10Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n11{
+      color:RoyalBlue;
+      font-family:'l11Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n12{
+      color:SaddleBrown;
+      font-family:'l12Font',Arial, Helvetica, sans-serif;
+    }    
+    h1.n13{
+      color:Sienna;
+      font-family:'l13Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n14{
+      color:SlateBlue;
+      font-family:'l14Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n15{
+      color:SteelBlue;
+      font-family:'l15Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n16{
+      color:Teal;
+      font-family:'l16Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n17{
+      color:Tomato;
+      font-family:'l17Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n18{
+      color:Violet;
+      font-family:'l18Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n19{
+      color:Yellow;
+      font-family:'l19Font',Arial, Helvetica, sans-serif;
+    }
+    h1.n20{
+      color:YellowGreen;
+      font-family:'l20Font',Arial, Helvetica, sans-serif;
+    }    
+         
